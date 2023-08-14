@@ -1,3 +1,115 @@
 body {
-    background-color: powderblue;
+    margin: 0% auto;
+    background-color: white;
+    padding: 3px 20px 0px 20px;
+}
+/*Header*/
+.inline-block {
+    display: inline-block;
+    vertical-align: center;
+    padding: 3px 10px 0px 20px;
+}
+
+.navigation {
+    width: 100%;
+    background-color:#619595;
+}
+.logo {
+    width: 10%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 80%;
+    padding: 1%;
+    text-align: right;
+    background-color:#619595;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    
+}
+#main-nav {
+    color:white;
+}
+li {
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.topmenu {
+    float: right;
+    vertical-align: center;
+}
+
+footer {
+    background-color: #619595;
+}
+
+
+/*Jumbotron*/
+.jumbotron{
+    background-color: #C5D7D1;
+}
+.text {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    vertical-align: center;
+}
+.photo {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    vertical-align: center;
+}
+
+.Mockups {
+    width: 100%;
+}
+
+.container {
+    padding-top: 30px;
+}
+
+
+.homeOR{
+    width: 120%;
+}
+
+
+
+/*.HR {
+    width: 50%;
+}
+.UT {
+    width: 50%;
+}*/
+.RA {
+    width: 100%;
+}
+.UP {
+    width: 80%;
+    text-align: center;
+}
+.SM {
+    width: 90%;
+}
+.WF {
+    width: 70%;
+}
+.DS {
+    width: 60%;
+}
+.HFFirst {
+    width: 70%;
+}
+.HFFinal {
+    width: 60%;
+}
+.FinalMocks {
+    width: 60%;
 }
